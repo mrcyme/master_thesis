@@ -1,0 +1,21 @@
+{"beta":
+  {"min_value":0,"max_value":10},
+"b1":
+  {"min_value":-2,"max_value":2},
+"b2":
+  {"min_value":-2,"max_value":2},
+"g1":
+  {"min_value":-2,"max_value":2},
+"g2":
+  {"min_value":-2,"max_value":2},
+"w":
+  {"min_value":0,"max_value":1},
+"nu":
+  {"min_value":0,"max_value":100},
+"R":
+  {"min_value":1,"max_value":1.1},
+"sigma":
+  {"min_value":0,"max_value":1},
+"C":
+  {"min_value":0,"max_value":5}
+}

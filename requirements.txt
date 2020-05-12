@@ -1,0 +1,10 @@
+requests
+pandas
+scipy
+sobol_seq
+pyDOE
+xgboost
+numba
+scikit-learn
+scikit-optimize
+tensorflow
