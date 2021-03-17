@@ -1,3 +1,3 @@
-# master thesis
+# Master Thesis
 
-Agent model calibration using surrogates modelling
+An application of Surrogate Modelling to the calibration of Macroeconomic Models.
